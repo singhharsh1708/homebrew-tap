@@ -1,8 +1,8 @@
 class Kitbash < Formula
   desc "Package manager and compiler for AI agent skills"
   homepage "https://singhharsh1708.github.io/kitbash/"
-  url "https://registry.npmjs.org/kitbash/-/kitbash-0.6.0.tgz"
-  sha256 "b3861a99033d2225d44524427fae9bf5594fb255b1563ddd9e2f9f430ddd4dc9"
+  url "https://registry.npmjs.org/kitbash/-/kitbash-0.7.0.tgz"
+  sha256 "82eb880545b416abe19c882a92abec249d74a6c947d1fbc2bb2f533f83c203e4"
   license "Apache-2.0"
 
   depends_on "node"
